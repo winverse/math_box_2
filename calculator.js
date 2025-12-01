@@ -5,6 +5,4 @@ const add = (a, b) => a + b;
 const substract = (a, b) => a - b;
 
 // type (x: number, y: number) -> number;
-const multiply = (a, b) => {
-  return a * b;
-};
+const multiply = (a, b) => a * b;
