@@ -16,3 +16,6 @@ const divide = (a, b) => {
   if (b === 0) return;
   return a / b;
 };
+
+// 유료 버전 나눗셈
+const divide_for_premium = (a, b) => a / b;
